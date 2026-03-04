@@ -478,7 +478,7 @@ To apply striping to an expandable table, add the `isStriped` and `isExpandable`
 
 ```
 
-### Striped multiple tobdy
+### Striped multiple tbody
 
 When there are multiple `Tbody` components within a table, a more granular application of striping may be controlled by adding either the `isEvenStriped` or `isOddStriped` properties to `Tbody`. These properties will stripe even or odd rows within that `Tbody` respectively.
 
